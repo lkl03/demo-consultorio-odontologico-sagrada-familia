@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-sagrada-familia
-Demo web para Consultorio odontologico sagrada familia — diseñada por eterlab.
+# Consultorio odontologico sagrada familia
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
